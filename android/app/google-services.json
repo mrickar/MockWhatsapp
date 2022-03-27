@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "592173339331",
+    "project_id": "mockwhatsapp-1b2ef",
+    "storage_bucket": "mockwhatsapp-1b2ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592173339331:android:736b006e45ce7e178e8876",
+        "android_client_info": {
+          "package_name": "com.example.message_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592173339331-rmp2fnr5l15e79i7olk3dolf2ljg93lm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.message_app",
+            "certificate_hash": "0e3b79a99f10bac5240b67a88630f431b976d701"
+          }
+        },
+        {
+          "client_id": "592173339331-53iiq0mlfpug057rf2quto7okkfo85hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjtMis3FPusjWMgL5cqIrl0ErvTIa55pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592173339331-53iiq0mlfpug057rf2quto7okkfo85hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
